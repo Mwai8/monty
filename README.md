@@ -1,1 +1,1 @@
-interpreter for Monty ByteCodes files
+monty is an interpreter for Monty ByteCodes files
