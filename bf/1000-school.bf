@@ -1,6 +1,6 @@
 [-][School
 ]
-[ This specific program prints "School" and a newline to the screen
+[ This program prints "School" and a newline to the screen
 ]
 ++++++++[>++++>++++++>++++++++>++++++++++>++++++++++++<<<<<-]>
 >>>+++.>+++.+++++.+++++++..---.<<<<----------------------.
